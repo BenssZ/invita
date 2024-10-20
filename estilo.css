@@ -4,7 +4,7 @@ body {
     color: #5a5a5a;
     margin: 0;
     padding: 0;
-    background-image: url('fotos/flores.png'); /* Ruta de tu imagen de patrón */
+    background-image: url('fotos/flores2.png'); /* Ruta de tu imagen de patrón */
     background-repeat: repeat; /* Repite la imagen de fondo */
     background-size: 65%; /* Mantiene el tamaño original de la imagen */
 }
